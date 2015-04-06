@@ -13,3 +13,18 @@ C:\Users\Jacob\documents\visual studio 2013\Projects\Compsys Secure Messaging\Co
 C:\Users\Jacob\documents\visual studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\obj\Release\Compsys Secure Messaging.dll
 C:\Users\Jacob\documents\visual studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\obj\Release\Compsys Secure Messaging.pdb
 C:\Users\Jacob\documents\visual studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\obj\Release\CompsysSecure.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Compsys Secure Messaging.dll.config
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Compsys Secure Messaging.dll
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Compsys Secure Messaging.pdb
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Compsys Secure Messaging.dll.manifest
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Compsys Secure Messaging.vsto
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.Properties.Resources.resources
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.SecureRibbon.resources
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.csproj.GenerateResource.Cache
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\Compsys Secure Messaging.dll
+C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\Compsys Secure Messaging.pdb

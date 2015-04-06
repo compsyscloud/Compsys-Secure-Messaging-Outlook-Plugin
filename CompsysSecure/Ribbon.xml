@@ -11,9 +11,7 @@
                             getScreentip="GetScreenTip"
                             getSupertip="GetSuperTip"
                             description="Send a secure and encrypted message"
-                            size="large"
-                             
-                             />
+                            size="large"/>
                 </group>
             </tab>
         </tabs>
