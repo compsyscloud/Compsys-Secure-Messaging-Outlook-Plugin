@@ -17,10 +17,10 @@
     <ROW Property="ARPPRODUCTICON" Value="Compsys.exe" Type="8"/>
     <ROW Property="MY_REG_KEY" Value="Microsoft"/>
     <ROW Property="Manufacturer" Value="Compsys"/>
-    <ROW Property="ProductCode" Value="1033:{CBFD6CF1-3AD2-4EA7-86D3-54FB9A4A813E} " Type="16"/>
+    <ROW Property="ProductCode" Value="1033:{C0485C5D-160F-4E50-AF00-BAF6CDC3A6EB} " Type="16"/>
     <ROW Property="ProductLanguage" Value="1033"/>
     <ROW Property="ProductName" Value="Compsys Secure Messaging Outlook Plugin"/>
-    <ROW Property="ProductVersion" Value="1.0.3" Type="32"/>
+    <ROW Property="ProductVersion" Value="1.0.4" Type="32"/>
     <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND;AI_SETUPEXEPATH;SETUPEXEDIR"/>
     <ROW Property="UpgradeCode" Value="{312BF6B9-EDDA-496B-A6E9-9BE52F43F2F1}"/>
     <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
@@ -60,13 +60,13 @@
     <ATTRIBUTE name="CurrentFeature" value="CSM"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
-    <ROW File="CompsysSecureMessaging.dll" Component_="CompsysSecureMessaging.dll" FileName="COMPSY~1.DLL|Compsys Secure Messaging.dll" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Compsys Secure Messaging.dll" SelfReg="false" NextFile="CompsysSecureMessaging.dll.config"/>
-    <ROW File="CompsysSecureMessaging.dll.config" Component_="CompsysSecureMessaging.dll.config" FileName="COMPSY~1.CON|Compsys Secure Messaging.dll.config" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Compsys Secure Messaging.dll.config" SelfReg="false" NextFile="CompsysSecureMessaging.dll.manifest"/>
-    <ROW File="CompsysSecureMessaging.dll.manifest" Component_="CompsysSecureMessaging.dll.config" FileName="COMPSY~1.MAN|Compsys Secure Messaging.dll.manifest" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Compsys Secure Messaging.dll.manifest" SelfReg="false" NextFile="CompsysSecureMessaging.vsto"/>
-    <ROW File="CompsysSecureMessaging.dll_1" Component_="CompsysSecureMessaging.dll_1" FileName="COMPSY~1.DLL|Compsys Secure Messaging.dll" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Compsys Secure Messaging.dll" SelfReg="false"/>
-    <ROW File="CompsysSecureMessaging.vsto" Component_="CompsysSecureMessaging.dll.config" FileName="COMPSY~1.VST|Compsys Secure Messaging.vsto" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Compsys Secure Messaging.vsto" SelfReg="false" NextFile="Microsoft.Office.Tools.Common.v4.0.Utilities.dll"/>
-    <ROW File="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" Component_="Microsoft.Office.Tools.Common.v4.0.Utili" FileName="MICROS~1.DLL|Microsoft.Office.Tools.Common.v4.0.Utilities.dll" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll" SelfReg="false" NextFile="Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll"/>
-    <ROW File="Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" Component_="Microsoft.Office.Tools.Outlook.v4.0.Util" FileName="MICROS~2.DLL|Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" Attributes="0" SourcePath="..\..\..\Visual Studio 2013\Projects\Compsys Secure Messaging\CompsysSecure\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" SelfReg="false" NextFile="CompsysSecureMessaging.dll_1"/>
+    <ROW File="CompsysSecureMessaging.dll" Component_="CompsysSecureMessaging.dll" FileName="COMPSY~1.DLL|Compsys Secure Messaging.dll" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Compsys Secure Messaging.dll" SelfReg="false" NextFile="CompsysSecureMessaging.dll.config"/>
+    <ROW File="CompsysSecureMessaging.dll.config" Component_="CompsysSecureMessaging.dll.config" FileName="COMPSY~1.CON|Compsys Secure Messaging.dll.config" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Compsys Secure Messaging.dll.config" SelfReg="false" NextFile="CompsysSecureMessaging.dll.manifest"/>
+    <ROW File="CompsysSecureMessaging.dll.manifest" Component_="CompsysSecureMessaging.dll.config" FileName="COMPSY~1.MAN|Compsys Secure Messaging.dll.manifest" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Compsys Secure Messaging.dll.manifest" SelfReg="false" NextFile="CompsysSecureMessaging.vsto"/>
+    <ROW File="CompsysSecureMessaging.dll_1" Component_="CompsysSecureMessaging.dll_1" FileName="COMPSY~1.DLL|Compsys Secure Messaging.dll" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Compsys Secure Messaging.dll" SelfReg="false"/>
+    <ROW File="CompsysSecureMessaging.vsto" Component_="CompsysSecureMessaging.dll.config" FileName="COMPSY~1.VST|Compsys Secure Messaging.vsto" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Compsys Secure Messaging.vsto" SelfReg="false" NextFile="Microsoft.Office.Tools.Common.v4.0.Utilities.dll"/>
+    <ROW File="Microsoft.Office.Tools.Common.v4.0.Utilities.dll" Component_="Microsoft.Office.Tools.Common.v4.0.Utili" FileName="MICROS~1.DLL|Microsoft.Office.Tools.Common.v4.0.Utilities.dll" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll" SelfReg="false" NextFile="Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll"/>
+    <ROW File="Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" Component_="Microsoft.Office.Tools.Outlook.v4.0.Util" FileName="MICROS~2.DLL|Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" Attributes="0" SourcePath="..\CompsysSecure\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll" SelfReg="false" NextFile="CompsysSecureMessaging.dll_1"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
     <ROW BootstrOptKey="GlobalOptions" GeneralOptions="b" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" EulaPathLocId="*" IntroTextPathLocId="*"/>
@@ -78,6 +78,9 @@
   <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
     <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
     <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DigCertStoreComponent">
+    <ROW TimeStampUrl="http://timestamp.verisign.com/scripts/timstamp.dll" SignerDescription="[|ProductName]" SignOptions="7" SignTool="0" Thumbprint="6d2c010026deb5dc53d38f02d44595accff0c264 Subject: Computer Systems &amp; Services&#10;Issuer: COMODO RSA Code Signing CA&#10;Valid from 04/05/2015 to 04/05/2018"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
     <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>

@@ -22,7 +22,6 @@ C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysS
 C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
 C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
 C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
-C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.csprojResolveAssemblyReference.cache
 C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.Properties.Resources.resources
 C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.SecureRibbon.resources
 C:\Users\Jacob\Documents\GitHub\Compsys-Secure-Messaging-Outlook-Plugin\CompsysSecure\obj\Release\CompsysSecure.csproj.GenerateResource.Cache
